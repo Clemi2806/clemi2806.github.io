@@ -6,6 +6,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
+    .project {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 18px 20px;
+    margin-bottom: 20px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+    }
+
+    .project:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+    border-color: #d1d5db;
+    }
+
+    .project-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 6px;
+    }
+
+    .project-description {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 12px;
+    line-height: 1.5;
+    }
+
+    .project a {
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #0366d6;
+    text-decoration: none;
+    border: 1px solid #0366d6;
+    padding: 5px 10px;
+    border-radius: 6px;
+    transition: background 0.15s ease, color 0.15s ease;
+    }
+
+    .project a:hover {
+    background: #0366d6;
+    color: white;
+    }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       margin: 0;

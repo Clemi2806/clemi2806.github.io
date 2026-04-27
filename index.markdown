@@ -44,3 +44,15 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
   </div>
   <a href="https://arxiv.org/abs/2410.23873">View paper</a>
 </div>
+
+## Projects
+
+<div class="project">
+    <div class="project-title">
+        SymPreProc
+    </div>
+    <div class="project-description">
+        SymPreProc (Symbolic Pre-Processor) is a tool for transforming Java methods so they can be analyzed with Symbolic PathFinder (SPF) without relying on external dependencies or global state.
+    </div>
+    <a href="https://github.com/Clemi2806/SymPreProc">GitHub</a>
+</div>
