@@ -4,7 +4,7 @@ layout: home
 
 ## Publications
 
-During my work as a Research Assistant in the [SemImpact](https://campus.aau.at/cris/project/0f4de0c6886a6b1501886bf96f2c00d7/) project, I contributed to the following publications:
+During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/cris/project/0f4de0c6886a6b1501886bf96f2c00d7/) project, I contributed to the following publications:
 
 <div class="publication">
   <div class="publication-title">
