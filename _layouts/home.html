@@ -41,7 +41,7 @@
       margin-bottom: 50px;
     }
 
-    .profile img {
+    .profile-img {
       width: 160px;
       height: 160px;
       border-radius: 50%;
@@ -99,7 +99,7 @@
 
     <!-- Profile Section -->
     <section class="profile">
-      <img src="{{ site.profile_image | default: '/assets/profile.jpeg' }}" alt="Profile picture">
+      <img class="profile-img" src="{{ site.profile_image | default: '/assets/profile.jpeg' }}" alt="Profile picture">
 
       <div class="profile-text">
         <h1>{{ site.title }}</h1>
@@ -108,7 +108,7 @@
 
         <div class="social-links">
           {% for link in site.minima.social_links %}
-            <a href="{{ link.url }}" target="_blank"><img src="/assets/icons/{{ link.icon }}" alt="{{ link.title }}"></a>
+            <a href="{{ link.url }}" target="_blank"><img src="/assets/icons/{{ link.icon }}.svg" alt="{{ link.title }}"></a>
           {% endfor %}
         </div>
       </div>
