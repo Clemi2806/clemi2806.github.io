@@ -54,5 +54,37 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
     <div class="project-description">
         SymPreProc (Symbolic Pre-Processor) is a tool for transforming Java methods so they can be analyzed with Symbolic PathFinder (SPF) without relying on external dependencies or global state.
     </div>
-    <a href="https://github.com/Clemi2806/SymPreProc">GitHub</a>
+
+    <div class="project-meta">
+        <span class="project-tag">Symbolic Execution</span>
+        <span class="project-tag">Program Analysis</span>
+    </div>
+
+    <div class="project-links">
+        <a href="https://github.com/Clemi2806/SymPreProc" target="_blank">
+        GitHub
+        </a>
+    </div>
+</div>
+
+<div class="project">
+  <div class="project-title">
+    controller-service
+  </div>
+
+  <div class="project-description">
+    A backend service component designed to manage powerplants over Kafka. This is part of a group project focused on creating and maintaining a microservice-based system.
+  </div>
+
+  <div class="project-meta">
+    <span class="project-tag">Spring</span>
+    <span class="project-tag">Testcontainers</span>
+    <span class="project-tag">Microservice</span>
+  </div>
+
+  <div class="project-links">
+    <a href="https://github.com/Kilowatt-Commando/controller-service" target="_blank">
+      GitHub →
+    </a>
+  </div>
 </div>
