@@ -60,11 +60,9 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
         <span class="project-tag">Program Analysis</span>
     </div>
 
-    <div class="project-links">
-        <a href="https://github.com/Clemi2806/SymPreProc" target="_blank">
-        GitHub
-        </a>
-    </div>
+    <a href="https://github.com/Clemi2806/SymPreProc" target="_blank">
+    GitHub
+    </a>
 </div>
 
 <div class="project">
@@ -81,10 +79,8 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
     <span class="project-tag">Testcontainers</span>
     <span class="project-tag">Microservice</span>
   </div>
+  <a href="https://github.com/Kilowatt-Commando/controller-service" target="_blank">
+    GitHub
+  </a>
 
-  <div class="project-links">
-    <a href="https://github.com/Kilowatt-Commando/controller-service" target="_blank">
-      GitHub →
-    </a>
-  </div>
 </div>
