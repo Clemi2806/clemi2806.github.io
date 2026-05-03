@@ -17,6 +17,7 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
     arXiv preprint (2025)
   </div>
   <a href="https://arxiv.org/abs/2512.14475">View paper</a>
+  <a href="https://github.com/glockyco/Teralizer">GitHub</a>
 </div>
 
 <div class="publication">
@@ -30,6 +31,7 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
     IEEE SANER 2025
   </div>
   <a href="https://doi.org/10.1109/SANER64311.2025.00083">View paper</a>
+  <a href="https://github.com/MSA-API-Management">GitHub</a>
 </div>
 
 <div class="publication">
@@ -43,6 +45,7 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
     arXiv preprint (2024)
   </div>
   <a href="https://arxiv.org/abs/2410.23873">View paper</a>
+  <a href="https://github.com/MSA-API-Management">GitHub</a>
 </div>
 
 ## Projects
