@@ -78,7 +78,7 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
         SymPreProc
     </div>
     <div class="project-description">
-        SymPreProc (Symbolic Pre-Processor) is a tool for transforming Java methods so they can be analyzed with Symbolic PathFinder (SPF) without relying on external dependencies or global state.
+        SymPreProc (Symbolic Pre-Processor) is a tool for transforming Java methods so that they can be analyzed with Symbolic PathFinder (SPF) without relying on external dependencies or global state.
     </div>
 
     <div class="meta">
