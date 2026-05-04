@@ -16,8 +16,16 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
   <div class="publication-venue">
     arXiv preprint (2025)
   </div>
-  <a href="https://arxiv.org/abs/2512.14475">View paper</a>
-  <a href="https://github.com/glockyco/Teralizer">GitHub</a>
+  <div class="meta">
+    <div class="tag">Test Amplification</div>
+    <div class="tag">Test Generalization</div>
+    <div class="tag">Property-Based Testing</div>
+    <div class="tag">Symbolic Execution</div>
+  </div>
+  <div class="links">
+    <a href="https://arxiv.org/abs/2512.14475">View paper</a>
+    <a href="https://github.com/glockyco/Teralizer">GitHub</a>
+  </div>
 </div>
 
 <div class="publication">
@@ -30,8 +38,16 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
   <div class="publication-venue">
     IEEE SANER 2025
   </div>
-  <a href="https://doi.org/10.1109/SANER64311.2025.00083">View paper</a>
-  <a href="https://github.com/MSA-API-Management">GitHub</a>
+  <div class="meta">
+    <div class="tag">API Evolution</div>
+    <div class="tag">REST API</div>
+    <div class="tag">Backward compatibility</div>
+    <div class="tag">Continuous integration</div>
+  </div>
+  <div class="links">
+    <a href="https://doi.org/10.1109/SANER64311.2025.00083">View paper</a>
+    <a href="https://github.com/MSA-API-Management">GitHub</a>
+  </div>
 </div>
 
 <div class="publication">
@@ -44,8 +60,15 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
   <div class="publication-venue">
     arXiv preprint (2024)
   </div>
-  <a href="https://arxiv.org/abs/2410.23873">View paper</a>
-  <a href="https://github.com/MSA-API-Management">GitHub</a>
+  <div class="meta">
+    <div class="tag">OpenAPI Specification</div>
+    <div class="tag">Source Code Analysis</div>
+    <div class="tag">REST APIs</div>
+  </div>
+  <div class="links">
+    <a href="https://arxiv.org/abs/2410.23873">View paper</a>
+    <a href="https://github.com/MSA-API-Management">GitHub</a>
+  </div>
 </div>
 
 ## Projects
@@ -58,9 +81,9 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
         SymPreProc (Symbolic Pre-Processor) is a tool for transforming Java methods so they can be analyzed with Symbolic PathFinder (SPF) without relying on external dependencies or global state.
     </div>
 
-    <div class="project-meta">
-        <span class="project-tag">Symbolic Execution</span>
-        <span class="project-tag">Program Analysis</span>
+    <div class="meta">
+        <span class="tag">Symbolic Execution</span>
+        <span class="tag">Program Analysis</span>
     </div>
 
     <a href="https://github.com/Clemi2806/SymPreProc" target="_blank">
@@ -77,10 +100,10 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
     A backend service component designed to manage powerplants over Kafka. This is part of a group project focused on creating and maintaining a microservice-based system.
   </div>
 
-  <div class="project-meta">
-    <span class="project-tag">Spring</span>
-    <span class="project-tag">Testcontainers</span>
-    <span class="project-tag">Microservice</span>
+  <div class="meta">
+    <span class="tag">Spring</span>
+    <span class="tag">Testcontainers</span>
+    <span class="tag">Microservice</span>
   </div>
   <a href="https://github.com/Kilowatt-Commando/controller-service" target="_blank">
     GitHub
