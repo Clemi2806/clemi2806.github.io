@@ -8,6 +8,26 @@ During my work as a Student Assistant in the [SemImpact](https://campus.aau.at/c
 
 <div class="publication">
   <div class="publication-title">
+    Generating Property-Based Tests for Java Methods
+  </div>
+  <div class="publication-authors">
+    Clemens Bauer
+  </div>
+  <div class="publication-venue">
+    Master's Thesis, University of Klagenfurt (2026)
+  </div>
+  <div class="meta">
+    <div class="tag">Property-Based Testing</div>
+    <div class="tag">Test Generation</div>
+    <div class="tag">Symbolic Execution</div>
+  </div>
+  <div class="links">
+    <a href="https://permalink.obvsg.at/UKL/AC17907004">View thesis</a>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-title">
     Teralizer: Semantics-Based Test Generalization from Conventional Unit Tests to Property-Based Tests
   </div>
   <div class="publication-authors">
